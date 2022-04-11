@@ -14,6 +14,6 @@ def mul(a,b):
 if __name__ == "__main__":
     print("result is ", add(3, 4))
     print("result is ", sub(3, 5))
-    print("result is ", mul(3, 4))
+    print("result is ", mul(3, 5))
     # add some some comments
     # test further results
