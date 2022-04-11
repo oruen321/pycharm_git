@@ -12,8 +12,8 @@ def mul(a,b):
     return a*b
 # added
 if __name__ == "__main__":
-    print("result is ", add(3, 1))
-    print("result is ", sub(3, 1))
+    print("result is ", add(3, 2))
+    print("result is ", sub(3, 7))
     print("result is ", mul(3, 4))
     # add some some comments
     # test further results
