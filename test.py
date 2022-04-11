@@ -14,6 +14,8 @@ def mul(a,b):
 if __name__ == "__main__":
     print("result is ", add(3, 8))
     print("result is ", sub(3, 8))
+    print("result is ", add(3, 2))
+    print("result is ", sub(3, 2))
     print("result is ", mul(3, 4))
     print("result is ", mul(3, 15))
     # add some some comments
